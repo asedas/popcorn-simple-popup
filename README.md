@@ -3,7 +3,7 @@ popcorn-simple-popup
 
 Simple popup plugin for Popcorn.js
 Copyright (c) 2014 Marcin Karpeta
-email: web@karpeta.com.pl
+email: web@4brothers.pl
 licence: GPL v2
 
 
